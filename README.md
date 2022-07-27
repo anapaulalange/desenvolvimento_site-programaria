@@ -2,7 +2,7 @@
 
 - JUSTIFICATIVA:
 
-Site construído durante o curso da progra{m}aria utilizando HTML e CSS (curso de introdução à programação com foco em desenvolvimento web)
+Site construído durante o curso progra{m}aria utilizando HTML e CSS (curso de introdução à programação com foco em desenvolvimento web)
 
 
 
